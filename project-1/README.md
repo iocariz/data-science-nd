@@ -477,9 +477,6 @@ jupyter notebook project-1-enhanced-features.ipynb
 
 # 3. Review results inline
 
-# 4. Generate publication visualizations
-# Add the quick_viz_generator.py code as a new cell at the end
-# Run that cell to generate all images
 ```
 
 ### Customization
