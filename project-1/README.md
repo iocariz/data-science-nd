@@ -27,7 +27,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+
 
 ---
 
@@ -103,16 +103,6 @@ Gross Domestic Product (GDP) per capita is the gold standard for measuring econo
 5. **💳 Financial System Depth**
    - Domestic credit to private sector
    - Overall credit availability
-
-### Model Performance
-
-| Model | Test R² | Test RMSE | Test MAE | Test MAPE |
-|-------|---------|-----------|----------|-----------|
-| **Gradient Boosting** | **0.967** | **$4,234** | **$3,012** | **12.4%** |
-| Random Forest | 0.963 | $4,521 | $3,189 | 13.1% |
-| Ridge Regression | 0.891 | $7,834 | $5,678 | 18.9% |
-| Lasso Regression | 0.886 | $8,012 | $5,890 | 19.5% |
-| Linear Regression | 0.884 | $8,156 | $5,967 | 19.8% |
 
 ### Key Insights
 
@@ -296,14 +286,6 @@ gdp-prediction-analysis/
 │       - Model training & evaluation
 │       - Results visualization
 │       - Comprehensive interpretation
-│
-├── visualization-guide-for-medium.md     # Visualization specification guide
-│   └── Detailed guide including:
-│       - 10 recommended visualization types
-│       - Medium-specific sizing guidelines
-│       - Color palette suggestions
-│       - Implementation instructions
-│       - Best practices checklist
 │
 ├└── medium_visuals/                       # Output directory for images
     └── (Generated PNG files at 300 DPI)
