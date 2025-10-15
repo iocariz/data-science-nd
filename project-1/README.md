@@ -265,9 +265,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+**Iñigo López de Ocáriz* - inigo_ocariz@me.com
 
-Project Link: [https://github.com/yourusername/gdp-prediction-analysis](https://github.com/yourusername/gdp-prediction-analysis)
+Project Link: [https://github.com/iocariz/data-science-nd/tree/main/project-1](https://github.com/iocariz/data-science-nd/tree/main/project-1)
 
 ## 🙏 Acknowledgments
 
@@ -278,7 +278,7 @@ Project Link: [https://github.com/yourusername/gdp-prediction-analysis](https://
 
 ## 📚 Related Work
 
-- [Medium Blog Post](https://medium.com/@yourusername/predicting-gdp) - Detailed writeup of findings
+- [Medium Blog Post](https://medium.com/@iigolopezdeocariz/predicting-economic-prosperity-what-really-drives-gdp-per-capita-da62c892b379) - Detailed writeup of findings
 
 
 ## 📊 Citation
